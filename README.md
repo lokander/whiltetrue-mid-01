@@ -346,3 +346,7 @@ Query Parameters: Same as summary report
 ## License
 
 MIT
+
+# Stats
+API cost: ~$4<br>
+Runtime: ~10min
